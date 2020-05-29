@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64bd4575-9a13-44a0-998e-a7c20232935f" name="Default Changelist" comment="" />
+    <list default="true" id="64bd4575-9a13-44a0-998e-a7c20232935f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\3_工程实践项目\2020\秒杀系统学习\MyCodes\mymiaosha\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a3pmaOUuUV9gXBLpeQmnX7Ctz5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +49,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -211,13 +222,30 @@
       <workItem from="1590288320601" duration="21954000" />
       <workItem from="1590658823135" duration="24000" />
       <workItem from="1590753969009" duration="717000" />
+      <workItem from="1590755270266" duration="481000" />
     </task>
+    <task id="LOCAL-00001" summary="create project">
+      <created>1590755563292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590755563292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Notifications" timestamp="1590755729522">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Notifications/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590755729522" />
     <state x="552" y="184" key="#Project_Structure" timestamp="1590256284808">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -238,6 +266,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="714" y="126" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585992888548" />
+    <state x="504" y="119" key="CommitChangelistDialog2" timestamp="1590755556823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="504" y="119" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590755556823" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1590755287660">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -290,10 +322,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585988876743" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1590755412242">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1590755577254">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590755412242" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590755577254" />
     <state x="640" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1590658822254">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
